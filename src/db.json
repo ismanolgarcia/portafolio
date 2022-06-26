@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "fullName": "Ismanol García",
+  "position": "Frontend Developer",
+  "aboutme": "I'm a self-taught software engineer from Dominican Republic with inclination to web development technologies.  If you want to contact me, do not hesitate to do for the following personal profiles",
+  "photo": "./assets/img",
+  "icons": {
+    "favicon": "./assets/icons/favicon.ico",
+    "logo192": "./assets/icons/logo192.png",
+    "logo512": "./assets/icons/logo512.png"
+  },
+  "link-social": {
+    "linkedin": "https://www.linkedin.com/in/ismanolgarcia",
+    "twitter": "https://twitter.com/ismanolgarcia",
+    "instagram": "https://www.instagram.com/ismanolgarcia/",
+    "tiktok": "https://www.tiktok.com/@ismanolgarcia",
+    "blog": "https://blog.ismanolgarcia.com/",
+    "github": "https://github.com/ismanolgarcia",
+    "npm": "https://www.npmjs.com/~ismanolgarcia"
+  }
+}
